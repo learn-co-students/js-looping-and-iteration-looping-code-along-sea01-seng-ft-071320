@@ -1,1 +1,2 @@
-// Code your solutions in this file
+// Clearode your solutions in this file
+const writeCards()
